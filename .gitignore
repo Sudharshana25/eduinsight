@@ -1,0 +1,23 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Models & data
+models/
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
