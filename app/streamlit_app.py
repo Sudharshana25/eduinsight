@@ -5,7 +5,7 @@ from pathlib import Path
 
 import os
 
-BASE_DIR = Path(__file__).resolve().parent.parent  # Goes from app/ → eduinsight/
+BASE_DIR = Path(__file__).resolve().parent # Goes from app/ → eduinsight/
 model_path = BASE_DIR / "performance_model.pkl"
 scaler_path = BASE_DIR / "scaler.pkl"
 
