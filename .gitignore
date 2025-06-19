@@ -15,7 +15,7 @@ venv/
 
 # Models & data
 models/
-*.pkl
+
 *.joblib
 
 # System files
