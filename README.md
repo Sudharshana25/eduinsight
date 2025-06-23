@@ -58,6 +58,8 @@ avg_quiz_score,attendance_pct,lms_interactions,num_assignments_submitted
 4.2,65,5,4
 8.1,92,18,9
 
+---
+
 ## How to Run Locally
 Clone the repo:
 
@@ -77,10 +79,12 @@ Run the app:
 
 streamlit run app/streamlit_app.py
 
+---
 
 Deployed App
 👉 https://eduinsight-4cjnwfk6dtvcnu3byslhpp.streamlit.app/
 
+---
 Author
 Sudharshana J
 B.E. CSE
