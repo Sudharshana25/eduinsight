@@ -58,27 +58,17 @@ avg_quiz_score,attendance_pct,lms_interactions,num_assignments_submitted
 4.2,65,5,4
 8.1,92,18,9
 
----
+```
 
 ## How to Run Locally
-Clone the repo:
-
+```bash
 git clone https://github.com/yourusername/eduinsight.git
 cd eduinsight
-
-Create virtual environment:
-
 py -3.10 -m venv venv
 .\venv\Scripts\activate
-
-Install requirements:
-
 pip install -r requirements.txt
-
-Run the app:
-
 streamlit run app/streamlit_app.py
-
+```
 ---
 
 Deployed App
